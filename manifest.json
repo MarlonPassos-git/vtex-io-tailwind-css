@@ -1,20 +1,9 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
+  "name": "tailwind-css",
+  "vendor": "agenciam3",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
-  "billingOptions": {
-    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
-    "support": {
-      "url": "https://support.vtex.com/hc/requests"
-    },
-    "free": true,
-    "type": "free",
-    "availableCountries": [
-      "*"
-    ]
-  },
+  "title": "Tailwind CSS for VTEX IO",
+  "description": "developed by Agencia M3",
   "builders": {
     "react": "3.x",
     "store": "0.x",
